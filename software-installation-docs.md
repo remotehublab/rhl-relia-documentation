@@ -6,6 +6,8 @@
 
 ![Architecture diagram](images/software-installation-docs/architecture-diagram.jpg)
 
+Figure from: ```Inonan, M., Chap, B., Orduña, P., Hussein, R., & Arabshahi, P. (2023, March). RHLab scalable software defined radio (SDR) remote laboratory. In International Conference on Remote Engineering and Virtual Instrumentation (pp. 237-248). Cham: Springer Nature Switzerland.```
+
 ## Server installation
 
 ### Installation of the components
