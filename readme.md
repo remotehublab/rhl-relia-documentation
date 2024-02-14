@@ -13,4 +13,5 @@ The user documentation (for students and instructors using RELIA) is available h
 
 The technical documentation (for system administrators installing RELIA in their university) is available here:
 
- * [Technical documentation](technical-docs.md)
+ * [Software installation documentation](software-installation-docs.md)
+ * [Hardware installation documentation](hardware-installation-docs.md)
