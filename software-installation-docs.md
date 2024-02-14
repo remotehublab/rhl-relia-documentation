@@ -4,7 +4,7 @@
 
 @porduna Explain the technical documentation and the overview of the architecture
 
-![Architecture diagram](images/technical-docs/architecture-diagram.jpg)
+![Architecture diagram](images/software-installation-docs/architecture-diagram.jpg)
 
 ## Server installation
 
