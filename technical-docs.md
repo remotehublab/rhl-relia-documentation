@@ -67,3 +67,8 @@ TO BE DEFINED
 ### Red Pitaya specifics
 
 TO BE DEFINED
+
+## Student management
+
+@porduna talk about WebLab-Deusto, LabDiscoveryEngine, and LabsLand.
+
