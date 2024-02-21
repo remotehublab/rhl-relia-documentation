@@ -21,6 +21,8 @@ This document explains how to install the equipment and integrate it with RHL Re
 
 @zzyzzy42 how to print, how to install, what model, and why and which pieces
 
+![Video](videos/hardware-installation-docs/Red_Pitaya_Case_V3_Dem0_V2_compressed3.mp4)
+
 ## Structures
 
 There are two alternatives. We have done both during the RHL RELIA project:
@@ -39,10 +41,13 @@ What you have to have is essential:
 
 Then you need some space where to put it, such as some kind of shelves, etc., and you need to use a power strip and an ethernet switch to use it.
 
-In the following picture, you can see one shelving unit, with two setups of ADALM Pluto (and their corresponding Raspberry Pi), without the Faraday boxes, and two Red Pitaya on the bottom right (not yet connected).
+<p align=center><img src="images/hardware-installation-docs/your-own-structure.jpg" width="50%"></p>
 
-![Custom setup for RELIA](images/hardware-installation-docs/your-own-structure.jpg)
+In the picture above, you can see one shelving unit, with two setups of ADALM Pluto (and their corresponding Raspberry Pi), without the Faraday boxes, and two Red Pitaya on the bottom right (not yet connected).
 
 ### Option 2: LabsLand Prism4
 
-@porduna how to build structures (e.g., your own, as we did for staging, or relying on the LabsLand ones)
+Alternatively, [LabsLand](https://labsland.com) provides the Prism4 structures, which are more compact and they already provide mechanisms for powering up two setups with a single power supply.
+
+<p align=center><img src="images/hardware-installation-docs/labsland_prism4_1.jpg" width="50%"></p>
+<p align=center><img src="images/hardware-installation-docs/labsland_prism4_2.jpg" width="50%"></p>
