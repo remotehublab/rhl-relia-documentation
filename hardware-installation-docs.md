@@ -23,6 +23,8 @@ This document explains how to install the equipment and integrate it with RHL Re
 
 [![Red Pitaya 3D printed piece](https://img.youtube.com/vi/U8Kwl83dq8U/0.jpg)](https://www.youtube.com/watch?v=U8Kwl83dq8U)
 
+See the video: https://www.youtube.com/watch?v=U8Kwl83dq8U
+
 ## Structures
 
 There are two alternatives. We have done both during the RHL RELIA project:
