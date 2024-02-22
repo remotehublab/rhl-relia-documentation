@@ -21,7 +21,7 @@ This document explains how to install the equipment and integrate it with RHL Re
 
 @zzyzzy42 how to print, how to install, what model, and why and which pieces
 
-![Video](videos/hardware-installation-docs/Red_Pitaya_Case_V3_Dem0_V2_compressed3.mp4)
+[![Red Pitaya 3D printed piece](https://img.youtube.com/vi/U8Kwl83dq8U/0.jpg)](https://www.youtube.com/watch?v=U8Kwl83dq8U)
 
 ## Structures
 
