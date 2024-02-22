@@ -51,5 +51,6 @@ In the picture above, you can see one shelving unit, with two setups of ADALM Pl
 
 Alternatively, [LabsLand](https://labsland.com) provides the Prism4 structures, which are more compact and they already provide mechanisms for powering up two setups with a single power supply.
 
-<p align=center><img src="images/hardware-installation-docs/labsland_prism4_1.jpg" width="50%"></p>
-<p align=center><img src="images/hardware-installation-docs/labsland_prism4_2.jpg" width="50%"></p>
+In the pictures above you can see 5 LabsLand Prism4, each of them containing two sets of remote laboratories (total 10 remote labs), each set of remote laboratories having 2 SDR devices each (20 SDR devices, each pair -transmitter and receiver- of SDR devices inside a Faraday Cage). Each Prism4 comes with two cameras, software to manage it, power supply and power cables, an ethernet switch, a light system and shadows (to prevent the light hitting directly on the remote laboratory) and relies on [Phase Dock](https://phasedock.com/) workbench modular bases to be able to adjust both the remote laboratory and the Raspberry Pi's.
+
+<p align=center><img src="images/hardware-installation-docs/labsland_prism4_1.jpg" width="45%"><img src="images/hardware-installation-docs/labsland_prism4_2.jpg" width="45%"></p>
