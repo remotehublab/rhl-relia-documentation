@@ -41,7 +41,7 @@ We recommend printing using a printer with a build volume of 300x300x100 mm or g
 
 [![Red Pitaya 3D printed piece](https://img.youtube.com/vi/U8Kwl83dq8U/0.jpg)](https://www.youtube.com/watch?v=U8Kwl83dq8U)
 
-See the video: https://www.youtube.com/watch?v=U8Kwl83dq8U
+See the installation video: https://www.youtube.com/watch?v=U8Kwl83dq8U
 
 ## Structures
 
