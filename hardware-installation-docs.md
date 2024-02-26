@@ -18,8 +18,26 @@ This document explains how to install the equipment and integrate it with RHL Re
 @zzyzzy42 how to print, how to install, what model, and why and which pieces
 
 ### Option 2: Red Pitaya
+Components
+- Red Pitaya Case V3.4: the case that can house 2 Red Pitayas
+[ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Red_Pitaya_Case_V3.4_ascii.stl),
+[Binary STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Red_Pitaya_Case_V3.4_binary.stl),
+[Fusion 360 Design Project](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Red_Pitaya_Case_V3.4.f3d)
 
-@zzyzzy42 how to print, how to install, what model, and why and which pieces
+We recommend printing using a printer with a build volume of 300x300x100 mm or greater. PLA is sufficient for this application. A detailed printing profile can be found [here](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/README.md).
+- Tag Holder V3.4: can be mounted to LabsLand Prism4 plates and holds customizable tags
+[ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_Holder_V3.4_ascii.stl), 
+[Binary STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_Holder_V3.4_binary.stl), 
+[Fusion 360 Design Project](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Red_Pitaya_Case_V3.4.f3d)
+- Tag RHL RELIA V3.4: name tag with RHL RELIA
+[ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_RELIA_V3.4_ascii.stl), 
+[Binary STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_RELIA_V3.4_binary.stl),
+[Fusion 360 Design Project](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Red_Pitaya_Case_V3.4.f3d)
+- Tag RHL LabsLand V3.4: name tag with RHL and LabsLand
+[ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_LabsLand_V3.4_ascii.stl), 
+[Binary STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_LabsLand_V3.4_binary.stl),
+[Fusion 360 Design Project](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Red_Pitaya_Case_V3.4.f3d)
+
 
 [![Red Pitaya 3D printed piece](https://img.youtube.com/vi/U8Kwl83dq8U/0.jpg)](https://www.youtube.com/watch?v=U8Kwl83dq8U)
 
