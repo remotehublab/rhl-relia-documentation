@@ -14,7 +14,7 @@ Figure from: ```Inonan, M., Chap, B., Orduña, P., Hussein, R., & Arabshahi, P. 
 
 #### Downloading the source code
 
-@pedrodeoliamarante git clone of the respositories
+Make a git clone of all the repositories
 
 #### Installing other services
 
@@ -26,25 +26,89 @@ Install Redis Server
 
 #### RHL Frontend
 
-@pedrodeoliamarante how to install React if they don't have it, tell them to install Node and npm, and do npm install, etc. and then the build command for production of pluto or redpitaya
+
+1. Install node and npm from here: https://nodejs.org/en/download/. Once this is completed, make sure to also run `npm i jquery --save` to ensure all $ characters are understood in the repository.
+2. run `npm install`
+
+With this you can run the following:
+* `npm start`: This command starts the development server.
+* `npm start:pluto:prod`: Starts the production server with Pluto environment variables.
+* `npm start:pluto:staging`: Starts the staging server with Pluto environment variables.
+* `npm start:redpitaya:prod`: Starts the production server with Redpitaya environment variables.
+* `npm start:redpitaya:staging`: Starts the staging server with Redpitaya environment variables.
+* `npm build:pluto:prod`: Builds the production bundle with Pluto environment variables.
+* `npm build:pluto:staging`: Builds the staging bundle with Pluto environment variables.
+* `npm build:redpitaya:prod`: Builds the production bundle with Redpitaya environment variables.
+* `npm build:redpitaya:staging`: Builds the staging bundle with Redpitaya environment variables.
+* `npm build`: Builds the production bundle.
+* `npm test`: Runs tests.
+* `npm i18n:scan`: Scans for internationalization keys using i18next-scanner.
 
 #### RHL Backend
 
-@pedrodeoliamarante explain how to configure the values of the prodrc and how to install the requirements and how to create a python virtualenv 
+#### Configuring prodrc
+#### Instaling requirements
+Make sure you have both python 3 and flask installed
+Linux (Ubuntu):
+* Install Python 3:
+1. `sudo apt install python3`
+* Install Flask:
+1. `sudo apt install python3-pip`
+2. `pip3 install flask`
+#### Creating a python virtualenv
+1. run `python3 -mvenv env`
+2. Activate the environment: `.env/bin/activate $ pip install -r requirements.txt`
+#### Running the backend
+1. `. devrc`
+2. `.env/bin/activate`
+3. `flask run --with-threads --exclude-patterns "/uploads`
+@pedrodeoliamarante explain how to install the blocks
 
-@pedrodeoliamarante explain how to install GNU Radio and the blocks
+##### Installing GNU-RADIO
+* Linux: Run `sudo apt-get install gnuradio` on your terminal
+* Mac: Run `brew install gnuradio` on your terminal
+* Windowns: Download and run https://github.com/ryanvolz/radioconda/releases/download/2024.01.26/radioconda-2024.01.26-Windows-x86_64.exe
+* For more information: https://wiki.gnuradio.org/index.php/InstallingGR
 
-#### RHL Scheduler 
+#### Instaling blocks
 
-(the same)
+### RHL Scheduler 
 
-@pedrodeoliamarante explain how to configure the values of the prodrc and how to install the requirements and how to create a python virtualenv 
+#### Configuring prodrc
+#### Instaling requirements
+Make sure you have both python 3 and flask installed
+Linux (Ubuntu):
+* Install Python 3:
+1. `sudo apt install python3`
+* Install Flask:
+1. `sudo apt install python3-pip`
+2. `pip3 install flask`
+#### Creating a python virtualenv
+1. run `python3 -mvenv env`
+2. Activate the environment: `.env/bin/activate $ pip install -r requirements.txt`
+#### Running the backend
+1. `. devrc`
+2. `.env/bin/activate`
+3. `flask run --with-threads
 
-#### RHL Data Uploader
+### RHL Data Uploader
 
-(the same)
-
-@pedrodeoliamarante explain how to configure the values of the prodrc and how to install the requirements and how to create a python virtualenv 
+#### Configuring prodrc
+#### Instaling requirements
+Make sure you have both python 3 and flask installed
+Linux (Ubuntu):
+* Install Python 3:
+1. `sudo apt install python3`
+* Install Flask:
+1. `sudo apt install python3-pip`
+2. `pip3 install flask`
+#### Creating a python virtualenv
+1. run `python3 -mvenv env`
+2. Activate the environment: `.env/bin/activate $ pip install -r requirements.txt`
+#### Running the backend
+1. `. devrc`
+2. `.env/bin/activate`
+3. `flask run --with-threads
 
 #### Configuring supervisor
 
@@ -58,8 +122,24 @@ Install Redis Server
 
 ### Common components
 
-@pedrodeoliamarante download gr-engine-runner and blocks and install both (the .profile file, etc.)
-@pedrodeoliamarante installing GNU Radio (version 3.10 I believe)
+1. Clone the RasberryPi Repos
+#### relia-gr-runner
+#### Instaling requirements
+* Install Python 3:
+1. `sudo apt install python3`
+* Install Flask:
+1. `sudo apt install python3-pip`
+2. `pip3 install flask`
+
+When you want to run the transmitter do:
+1.  devrc-transmitter
+2.  flask process-tasks
+
+When you want to run the receiver do:
+1.  devrc-receiver
+2.  flask process-tasks
+#### Instaling GNU-Radio
+* Run  `sudo apt-get install gnuradio`
 @pedrodeoliamarante configuring the prodrc files and supervisor
 
 ### ADALM Pluto specifics
