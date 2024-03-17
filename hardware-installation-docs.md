@@ -38,7 +38,7 @@ Components
 - Tag RHL RELIA V4.1: name tag with RHL RELIA with logos
   (Designed using Bambu Lab MarkerWorld MakerLab)
 [ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_LabsLand_V4.1_ascii.stl), 
-[Colored 3MF File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_LabsLand_V4.1_ascii.3mf),
+[Colored 3MF File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_LabsLand_V4.1_ascii.3mf)
 
 
 We recommend printing using a printer with a build volume of 300x300x100 mm or greater. PLA is sufficient for this application. A detailed printing profile can be found [here](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/README.md).
