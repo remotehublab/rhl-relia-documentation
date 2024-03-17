@@ -36,7 +36,7 @@ Components
 [Binary STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_LabsLand_V3.4_binary.stl),
 [Fusion 360 Design Project](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Red_Pitaya_Case_V3.4.f3d)
 - Tag RHL RELIA V4.1: name tag with RHL RELIA with logos
-  Designed using Bambu Lab MarkerWorld MakerLab
+  (Designed using Bambu Lab MarkerWorld MakerLab)
 [ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_LabsLand_V4.1_ascii.stl), 
 [Colored 3MF File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_LabsLand_V4.1_ascii.3mf),
 
