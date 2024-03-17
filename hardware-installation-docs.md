@@ -13,11 +13,29 @@ This document explains how to install the equipment and integrate it with RHL Re
 
 @zzyzzy42 how to print and why and which pieces
 
-### Option 1: ADALM Pluto
+### Option 1: ADALM Pluto (Updated on 03/17/2024)
+Components
+- ADALM-PLUTO Case V3.11: the case that can house 2 ADALM-PLUTOs
+[ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Pluto_Case_V3.11_ascii.stl),
+[Binary STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Pluto_Case_V3.11_binary.stl),
+[Fusion 360 Design Project](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Pluto_Case_V3.11.f3d)
+- Tag Holder V3.4: can be mounted to LabsLand Prism4 plates and holds customizable tags
+[ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_Holder_V3.4_ascii.stl), 
+[Binary STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_Holder_V3.4_binary.stl), 
+[Fusion 360 Design Project](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Red_Pitaya_Case_V3.4.f3d)
+- Tag RHL RELIA V3.4: name tag with RHL RELIA
+[ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_RELIA_V3.4_ascii.stl), 
+[Binary STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_RELIA_V3.4_binary.stl),
+[Fusion 360 Design Project](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Red_Pitaya_Case_V3.4.f3d)
+- Tag RHL RELIA V4.1: name tag with RHL RELIA with logos
+  (Designed using Bambu Lab MarkerWorld MakerLab)
+[ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_LabsLand_V4.1_ascii.stl), 
+[Colored 3MF File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_LabsLand_V4.1_ascii.3mf)
 
-@zzyzzy42 how to print, how to install, what model, and why and which pieces
+We recommend printing using a printer with a build volume of 300x300x100 mm or greater. PLA is sufficient for this application. A detailed printing profile can be found [here](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/README.md).
 
-### Option 2: Red Pitaya
+
+### Option 2: Red Pitaya (Updated on 03/17/2024)
 Components
 - Red Pitaya Case V3.4: the case that can house 2 Red Pitayas
 [ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Red_Pitaya_Case_V3.4_ascii.stl),
@@ -30,10 +48,6 @@ Components
 - Tag RHL RELIA V3.4: name tag with RHL RELIA
 [ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_RELIA_V3.4_ascii.stl), 
 [Binary STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_RELIA_V3.4_binary.stl),
-[Fusion 360 Design Project](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Red_Pitaya_Case_V3.4.f3d)
-- Tag RHL LabsLand V3.4: name tag with RHL and LabsLand without logos
-[ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_LabsLand_V3.4_ascii.stl), 
-[Binary STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Tag_RHL_LabsLand_V3.4_binary.stl),
 [Fusion 360 Design Project](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Red_Pitaya_Case_V3.4.f3d)
 - Tag RHL RELIA V4.1: name tag with RHL RELIA with logos
   (Designed using Bambu Lab MarkerWorld MakerLab)
