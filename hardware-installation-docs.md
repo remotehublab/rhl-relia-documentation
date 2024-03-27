@@ -13,7 +13,7 @@ This document explains how to install the equipment and integrate it with RHL Re
 
 @zzyzzy42 how to print and why and which pieces
 
-### Option 1: ADALM Pluto (Updated on 03/17/2024)
+### Option 1: ADALM-Pluto
 Components
 - ADALM-PLUTO Case V3.11: the case that can house 2 ADALM-PLUTOs
 [ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Pluto_Case_V3.11_ascii.stl),
@@ -39,7 +39,7 @@ We recommend printing using a printer with a build volume of 300x300x100 mm or g
 See the installation video: https://www.youtube.com/watch?v=j0buuGNR-qw&t=6s
 
 
-### Option 2: Red Pitaya (Updated on 03/17/2024)
+### Option 2: Red Pitaya
 Components
 - Red Pitaya Case V3.4: the case that can house 2 Red Pitayas
 [ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Red_Pitaya_Case_V3.4_ascii.stl),
