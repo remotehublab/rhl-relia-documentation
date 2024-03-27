@@ -12,7 +12,7 @@ This document explains how to install the equipment and integrate it with RHL Re
 ## 3D-printed pieces
 
 
-### Option 1: ADALM-Pluto
+### Option 1: ADALM-PLUTO
 Components
 - ADALM-PLUTO Case V3.11: the case that can house 2 ADALM-PLUTOs
 [ASCII STL File](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/Pluto_Case_V3.11_ascii.stl),
