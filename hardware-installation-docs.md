@@ -11,7 +11,6 @@ This document explains how to install the equipment and integrate it with RHL Re
 
 ## 3D-printed pieces
 
-@zzyzzy42 how to print and why and which pieces
 
 ### Option 1: ADALM-Pluto
 Components
