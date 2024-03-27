@@ -34,7 +34,7 @@ Components
 
 We recommend printing using a printer with a build volume of 300x300x100 mm or greater. PLA is sufficient for this application. A detailed printing profile can be found [here](https://github.com/remotehublab/rhl-relia-3d-parts/blob/main/v3/README.md).
 
-[![ADALM-PLUTO 3D printed piece](https://img.youtube.com/vi/j0buuGNR-qw&t=6s/0.jpg)](https://www.youtube.com/watch?v=j0buuGNR-qw&t=6s)
+[![ADALM-PLUTO 3D printed piece](https://img.youtube.com/vi/j0buuGNR-qw/0.jpg)](https://www.youtube.com/watch?v=j0buuGNR-qw&t=6s)
 
 See the installation video: https://www.youtube.com/watch?v=j0buuGNR-qw&t=6s
 
