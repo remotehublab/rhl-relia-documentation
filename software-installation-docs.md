@@ -148,7 +148,18 @@ TO BE DEFINED
 
 ### Red Pitaya specifics
 
-TO BE DEFINED
+Software Installation On Laptop/Computer/Raspberry Pi
+mkdir ~/code 
+cd ~/code 
+git clone https://github.com/pavel-demin/red-pitaya-notes
+Then create an executable file ~/rpgr with these contents (3 lines):
+
+#!/bin/bash 
+export GRC_BLOCKS_PATH=$HOME/code/red-pitaya-notes/projects/sdr_transceiver/gnuradio 
+gnuradio-companion
+
+Then startup GNU Radio (with the modules of Red Pitaya installed) type this laptop:
+~/rpgr
 
 ## Student management
 
