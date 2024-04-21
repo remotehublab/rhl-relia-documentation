@@ -2,7 +2,7 @@
 
 ## Introduction
 
-@porduna Explain the technical documentation and the overview of the architecture
+RELIA is designed so that students can use the remote laboratory in an efficient and scalable way. To do so, students will only interact with the University Server in the following diagram, particularly with the web and the scheduler. There will be multiple setups (and each setup will have two SDR devices), so a student will have for some seconds access to that setup. So as to support multiple students, we support multiple setups that connect to the global scheduler, and will exchange data to the user through the RELIA data uploader:
 
 ![Architecture diagram](images/software-installation-docs/architecture-diagram.jpg)
 
