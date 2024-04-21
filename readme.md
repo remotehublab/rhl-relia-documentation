@@ -1,6 +1,6 @@
 # RHL RELIA Documentation
 
-This repository contains the documentation of the RHL Relia project (see [website](https://rhlab.ece.uw.edu/projects/relia/)). This is a NSF funded project (award number #2141798) developed by the [@remotehublab](https://github.com/remotehublab), the [Remote Hub Lab](https://rhlab.ece.uw.edu) of [the University of Washington](https://www.washington.edu), with collaboration of [@labsland](https://github.com/labsland) ([LabsLand](https://labsland.com)).
+This repository contains the documentation of the RHL Relia project (see [website](https://rhlab.ece.uw.edu/projects/relia/)). This is a NSF funded project (award number [#2141798](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2141798)) developed by the [@remotehublab](https://github.com/remotehublab), the [Remote Hub Lab](https://rhlab.ece.uw.edu) of [the University of Washington](https://www.washington.edu), with collaboration of [@labsland](https://github.com/labsland) ([LabsLand](https://labsland.com)).
  
 ## User documentation
 
