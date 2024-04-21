@@ -1,9 +1,7 @@
 # RHL RELIA Documentation
 
-## Introduction
-
-blah blah by @porduna
-
+This repository contains the documentation of the RHL Relia project (see [website](https://rhlab.ece.uw.edu/projects/relia/)). This is a NSF funded project (award number #2141798) developed by the [@remotehublab](https://github.com/remotehublab), the [Remote Hub Lab](https://rhlab.ece.uw.edu) of [the University of Washington](https://www.washington.edu), with collaboration of [@labsland](https://github.com/labsland) ([LabsLand](https://labsland.com)).
+ 
 ## User documentation
 
 The user documentation (for students and instructors using RELIA) is available here:
@@ -19,7 +17,6 @@ The technical documentation (for system administrators installing RELIA in their
 
 ## Code repositories
 
- * Information about RHL RELIA: https://rhlab.ece.uw.edu/projects/relia/
  * Documentation:
    * [RHL RELIA Documentation](https://github.com/remotehublab/rhl-relia-documentation/blob/main/readme.md)
  * Server:
