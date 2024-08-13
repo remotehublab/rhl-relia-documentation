@@ -2,7 +2,8 @@
 
 ## Introduction
 
-@marcosinonan : screenshot and what they will expect
+#@marcosinonan : screenshot and what they will expect
+This is a test.
 
 ## Uploading files
 
