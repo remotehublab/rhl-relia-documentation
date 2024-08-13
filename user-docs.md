@@ -8,6 +8,9 @@ If you haven't registered yet, please create an account by visiting the followin
 
 
 <img src="images/user-docs/relia_1.jpeg" width="300">
+<img src="images/user-docs/relia-introduction.jpeg" width="300">
+<img src="images/user-docs/relia-loadfiles.jpeg" width="300">
+<img src="images/user-docs/relia-uploadfiles.jpeg" width="300">
 
 
 <!-- #@marcosinonan : screenshot and what they will expect -->
