@@ -6,6 +6,7 @@ RHL RELIA is an educational remote laboratory to perform wireless experiments co
 
 If you haven't registered yet, please create an account by visiting the following link [RELIA registration](https://uw.labsland.com/standalone/join/AQTX5676) and choose: It is my first time in LabsLand.
 
+![relia_1](https://github.com/user-attachments/assets/973d2c54-b693-4917-8a09-85dd3239d9a0)
 
 
 <!-- #@marcosinonan : screenshot and what they will expect -->
@@ -17,6 +18,7 @@ If you haven't registered yet, please create an account by visiting the followin
 ## Using the laboratory widgets
 
 @marcosinonan :  screenshot showing what is each part (e.g., camera, transmitter, receiver), and that it is in a faraday cage (so they know that the image is awkward but that's fine and good)
+![Uploading relia_1.jpeg…]()
 
 ## Supported GNU Radio widgets
 
