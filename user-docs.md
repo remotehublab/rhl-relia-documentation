@@ -7,10 +7,10 @@ RHL RELIA is a distributed remote laboratory designed for wireless experiments, 
 To access RHL RELIA, users must first register. Please create an account by visiting [RELIA registration](https://uw.labsland.com/standalone/join/AQTX5676) and choose: **It is my first time in LabsLand.**
 
 
-<img src="images/user-docs/relia_1.jpeg" width="300">
-<img src="images/user-docs/relia-introduction.jpeg" width="300">
-<img src="images/user-docs/relia-loadfiles.jpeg" width="300">
-<img src="images/user-docs/relia-uploadfiles.jpeg" width="300">
+<img src="images/user-docs/relia_1.jpeg" width="250">
+<img src="images/user-docs/relia-introduction.jpeg" width="400">
+<img src="images/user-docs/relia-loadfiles.jpeg" width="400">
+<img src="images/user-docs/relia-uploadfiles.jpeg" width="400">
 
 
 <!-- #@marcosinonan : screenshot and what they will expect -->
