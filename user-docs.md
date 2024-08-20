@@ -10,7 +10,8 @@ To access RHL RELIA, users must first register. Please create an account by visi
 
 <img src="images/user-docs/relia_1.jpeg" width="250">
 
-2. You will see the a brief introduction about how RELIA works as is shown in the figure below that explains how RHL RELIA works
+2. Netx, a brief introduction about how RELIA works is shown as the figure below. After reading click on tab "2. Load Files"
+    
 <img src="images/user-docs/relia-introduction.jpeg" width="700">
 
 <!-- <img src="images/user-docs/relia-loadfiles.jpeg" width="700"> -->
