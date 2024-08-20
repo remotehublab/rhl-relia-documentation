@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4a623493-11e7-48b6-a473-e5f27a99c646)# RHL RELIA User documentation
+# RHL RELIA User documentation
 
 ## Introduction
 
