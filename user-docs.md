@@ -13,7 +13,7 @@ To access RHL RELIA, users must first register. Please create an account by visi
 2. You will see the a brief introduction about how RELIA works as is shown in the figure below that explains how RHL RELIA works
 <img src="images/user-docs/relia-introduction.jpeg" width="400">
 
-<!-- <img src="images/user-docs/relia-loadfiles.jpeg" width="400"> -->
+<!-- <img src="images/user-docs/relia-loadfiles.jpeg" width="700"> -->
 
 
 <!-- #@marcosinonan : screenshot and what they will expect -->
@@ -24,7 +24,7 @@ To access RHL RELIA, users must first register. Please create an account by visi
 
 To upload your .grc files the user must click on the tab 2. Users can upload as many files as needed by clicking on "Chosen Files." However, it's important to note that for the specific tasks of transmission and reception, users are required to select one file each to be sent to ADALM-PLUTO. In the figure below, although there are four uploaded files, only "TX_basic.grc" is sent to the ADALM-PLUTO Transmitter, and "RX_basic.grc" is sent to the ADALM-PLUTO Receiver.
 
-<img src="images/user-docs/relia-uploadfiles.jpeg" width="400">
+<img src="images/user-docs/relia-uploadfiles.jpeg" width="700">
 
 
 ## Using the laboratory widgets
