@@ -1,4 +1,4 @@
-# RHL RELIA User documentation
+![image](https://github.com/user-attachments/assets/4a623493-11e7-48b6-a473-e5f27a99c646)# RHL RELIA User documentation
 
 ## Introduction
 
@@ -9,16 +9,23 @@ To access RHL RELIA, users must first register. Please create an account by visi
 1. Access [RHL RELIA](https://uw.labsland.com/standalone/login?url=%2Fstandalone%2F%3F) and enter the following icon: 
 
 <img src="images/user-docs/relia_1.jpeg" width="250">
+
+2. You will see the a brief introduction about how RELIA works as is shown in the figure below that explains how RHL RELIA works
 <img src="images/user-docs/relia-introduction.jpeg" width="400">
-<img src="images/user-docs/relia-loadfiles.jpeg" width="400">
-<img src="images/user-docs/relia-uploadfiles.jpeg" width="400">
+
+<!-- <img src="images/user-docs/relia-loadfiles.jpeg" width="400"> -->
 
 
 <!-- #@marcosinonan : screenshot and what they will expect -->
 
 ## Uploading files
 
-@marcosinonan : screenshot and how it works
+<!-- @marcosinonan : screenshot and how it works -->
+
+To upload your .grc files the user must click on the tab 2. Users can upload as many files as needed by clicking on "Chosen Files." However, it's important to note that for the specific tasks of transmission and reception, users are required to select one file each to be sent to ADALM-PLUTO. In the figure below, although there are four uploaded files, only "TX_basic.grc" is sent to the ADALM-PLUTO Transmitter, and "RX_basic.grc" is sent to the ADALM-PLUTO Receiver.
+
+<img src="images/user-docs/relia-uploadfiles.jpeg" width="400">
+
 
 ## Using the laboratory widgets
 
