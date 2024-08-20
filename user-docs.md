@@ -8,9 +8,9 @@ To access RHL RELIA, users must first register. Please create an account by visi
 
 1. Access [RHL RELIA](https://uw.labsland.com/standalone/login?url=%2Fstandalone%2F%3F) and enter the following icon: 
 
-<center>
-<img src="images/user-docs/relia_1.jpeg" width="250">
-</center>
+<p align="center">
+    <img src="images/user-docs/relia_1.jpeg" width="250">
+</p>
 
 2. Netx, a brief introduction about how RELIA works is shown as the figure below. After reading click on tab "2. Load Files"
     
