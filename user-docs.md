@@ -11,7 +11,7 @@ To access RHL RELIA, users must first register. Please create an account by visi
 <img src="images/user-docs/relia_1.jpeg" width="250">
 
 2. You will see the a brief introduction about how RELIA works as is shown in the figure below that explains how RHL RELIA works
-<img src="images/user-docs/relia-introduction.jpeg" width="400">
+<img src="images/user-docs/relia-introduction.jpeg" width="700">
 
 <!-- <img src="images/user-docs/relia-loadfiles.jpeg" width="700"> -->
 
