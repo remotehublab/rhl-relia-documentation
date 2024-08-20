@@ -2,14 +2,14 @@
 
 ## Introduction
 
-RHL RELIA is a distributed remote laboratory designed for wireless experiments, composed of multiple transmitter-receiver instances, each utilizing an ADALM-Pluto SDR. Users can design their experiments locally using GNU Radio Companion and then access RHL RELIA to upload the corresponding .grc configuration files to any available instance. 22
+RHL RELIA is a distributed remote laboratory designed for wireless experiments, composed of multiple transmitter-receiver instances, each utilizing an ADALM-Pluto SDR. Users can design their experiments locally using GNU Radio Companion and then access RHL RELIA to upload the corresponding .grc configuration files to any available instance.
 
 To access RHL RELIA, users must first register. Please create an account by visiting [RELIA registration](https://uw.labsland.com/standalone/join/AQTX5676) and choose: **It is my first time in LabsLand.**
 
 1. Access [RHL RELIA](https://uw.labsland.com/standalone/login?url=%2Fstandalone%2F%3F) and enter the following icon: 
 
 <p align="center">
-    <img src="images/user-docs/relia_1.jpeg" width="250">
+    <img src="images/user-docs/relia_1.jpeg" width="300">
 </p>
 
 2. Netx, a brief introduction about how RELIA works is shown as the figure below. After reading click on tab "2. Load Files"
