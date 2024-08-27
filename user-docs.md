@@ -27,7 +27,10 @@ To access RHL RELIA, users must first register. Please create an account by visi
 
 An user can upload as many ".grc" files as needed by clicking on "Chosen Files." However, only one file can be sent to the Transmitter and another to the Receiver instance, depending on the selected function. As shown in the figure below, despite four files being uploaded, only "TX_basic.grc" is sent to the ADALM-PLUTO Transmitter, and "RX_basic.grc" is sent to the ADALM-PLUTO Receiver.
 
+<p align="center">
+
 <img src="images/user-docs/relia-uploadfiles.jpeg" width="700">
+</p>
 
 
 ## Using the laboratory widgets
