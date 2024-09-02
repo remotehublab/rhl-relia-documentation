@@ -35,6 +35,14 @@ An user can upload as many ".grc" files as needed by clicking on "Chosen Files."
 
 ## Using the laboratory widgets
 
+Each RHL RELIA instance is composed of an ADALM-Pluto SDR transmitter and receiver, isolated with electro-textile metallization material to create a Faraday cage, as shown in the figure below (left). When users operate RHL RELIA, they can view the corresponding hardware depicted in the figure below (right).
+
+<p align="center">
+
+<img src="images/user-docs/relia_view.png" width="700">
+</p>
+
+
 RHL RELIA offers a variety of widgets and variables that are compatible with GNU Radio Companion (GRC). This allows users to design experiments locally in GRC and execute them remotely, ensuring seamless integration and ease of use.
 
 <!-- @marcosinonan :  screenshot showing what is each part (e.g., camera, transmitter, receiver), and that it is in a faraday cage (so they know that the image is awkward but that's fine and good)
