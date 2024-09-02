@@ -43,14 +43,15 @@ Each RHL RELIA instance is composed of an ADALM-Pluto SDR transmitter and receiv
 </p>
 
 
-RHL RELIA offers a variety of widgets and variables that are compatible with GNU Radio Companion (GRC). This allows users to design experiments locally in GRC and execute them remotely, ensuring seamless integration and ease of use.
 
 <!-- @marcosinonan :  screenshot showing what is each part (e.g., camera, transmitter, receiver), and that it is in a faraday cage (so they know that the image is awkward but that's fine and good)
 ![Uploading relia_1.jpeg…]() -->
 
 ## Supported GNU Radio widgets
 
-@marcosinonan what widgets are supported, make a subsection for each of them.
+<!-- @marcosinonan what widgets are supported, make a subsection for each of them.-->
+RHL RELIA offers a variety of widgets and variables that are compatible with GNU Radio Companion (GRC). This allows users to design experiments locally in GRC and execute them remotely, ensuring seamless integration and ease of use.
+
 
 ### Vector Sink
 
