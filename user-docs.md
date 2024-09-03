@@ -53,6 +53,14 @@ Each RHL RELIA instance is composed of an ADALM-Pluto SDR transmitter and receiv
 RHL RELIA offers a variety of widgets and variables that are compatible with GNU Radio Companion (GRC). This allows users to design experiments locally in GRC and execute them remotely, ensuring seamless integration and ease of use.
 
 
+### Time Sink 
+
+<p align="center">
+
+<img src="images/user-docs/time_both.png" width="700">
+</p>
+
+
 ### Vector Sink
 
 @marcosinonan (this is an example, put a figure of how it looks in GNU Radio and how it looks in RELIA, and if there is any limitation)
