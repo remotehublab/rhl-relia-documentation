@@ -55,13 +55,21 @@ RHL RELIA offers a variety of widgets and variables that are compatible with GNU
 
 ### Time Sink 
 
-This sink allows for the display of multiple signals in real-time. The RHL RELIA time sink can present both real (float) and I/Q (complex) signals across one to five channels simultaneously. Additionally, it includes checkboxes to enable various graphical options such as Grid ON/OFF, Axis Labels ON/OFF, AutoScale, Zoom IN/OUT, Pause, and the ability to set y-limits for signal amplitude. Below is a comparison between the RHL RELIA Sink (left) and the GRC QT Time Sink (right).
+This sink allows for the display of multiple signals in time domain. The RHL RELIA time sink can present both real (float) and I/Q (complex) signals across one to five channels simultaneously. Additionally, it includes checkboxes to enable various graphical options such as Grid ON/OFF, Axis Labels ON/OFF, AutoScale, Zoom IN/OUT, Pause, and the ability to set y-limits for signal amplitude. Below is a comparison between the RHL RELIA Time Sink (left) and the GRC QT Time Sink (right).
 
 <p align="center">
 
 <img src="images/user-docs/time_both.png" width="700">
 </p>
 
+### Frequency Sink 
+
+This sink allows for the display of multiple signals in frequecny domain. The RHL RELIA frequency sink plots Power Spectral Density (PSD) of signals assigning a power value to every frequency bin to unti five channels simultaneously. Additionally, it includes checkboxes to enable various graphical options such as Grid ON/OFF, Axis Labels ON/OFF, AutoScale, Zoom IN/OUT, Pause, and the ability to set y-limits for signal amplitude. Below is a comparison between the RHL RELIA Freqeucny Sink (left) and the GRC QT Freqeucny Sink (right).
+
+<p align="center">
+
+<img src="images/user-docs/frequency_both.png" width="700">
+</p>
 
 ### Vector Sink
 
