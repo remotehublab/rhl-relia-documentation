@@ -73,7 +73,15 @@ This sink allows for the display of multiple signals in frequecny domain. The RH
 
 ### Vector Sink
 
-@marcosinonan (this is an example, put a figure of how it looks in GNU Radio and how it looks in RELIA, and if there is any limitation)
+This sink enables the display of multiple data vectors and allows for plotting sequences in any domain with the RHL RELIA Vector sink. It can be used to analyze various types of signals and even create custom domains. The interface includes checkboxes to toggle graphical options like Grid ON/OFF, Axis Labels ON/OFF, AutoScale, Zoom IN/OUT, Pause, and the ability to set y-limits for signal amplitude. Below is a comparison of a triangular signal between the RHL RELIA Vector Sink (left) and the GRC QT Vector Sink (right).
 
-@marcosinonan (the same with the rest of the widgets)
+<p align="center">
+
+<img src="images/user-docs/vector_both.png" width="700">
+</p>
+
+
+<!--@marcosinonan (this is an example, put a figure of how it looks in GNU Radio and how it looks in RELIA, and if there is any limitation)
+
+@marcosinonan (the same with the rest of the widgets) -->
 
