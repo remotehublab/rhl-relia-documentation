@@ -89,6 +89,14 @@ This sink allows the display of IQ signals in the constellation domain, acceptin
 <img src="images/user-docs/constellation_both.png" width="700">
 </p>
 
+### Histogram Sink
+
+This sink displays a histogram of real data. The user can set the bit range and adjust the number of bins for the histogram to control the granularity of the data distribution. The interface includes checkboxes to toggle graphical options such as Grid ON/OFF, AutoScale, Zoom IN/OUT, and Pause. Below is a comparison of a complex IQ sine wave between the RHL RELIA Histogram Sink (left) and the GRC QT Histogram Sink (right).
+
+<p align="center">
+
+<img src="images/user-docs/histogram_both.png" width="700">
+</p>
 
 <!--@marcosinonan (this is an example, put a figure of how it looks in GNU Radio and how it looks in RELIA, and if there is any limitation)
 
