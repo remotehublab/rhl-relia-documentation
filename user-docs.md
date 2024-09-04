@@ -80,6 +80,15 @@ This sink enables the display of multiple data vectors and allows for plotting s
 <img src="images/user-docs/vector_both.png" width="700">
 </p>
 
+### Constellation Sink
+
+This sink allows the display of IQ signals in the constellation domain, accepting complex signals as input. The interface includes checkboxes to toggle graphical options such as Grid ON/OFF, AutoScale, Zoom IN/OUT, and Pause. Below is a comparison of a complex IQ sine wave between the RHL RELIA Constellation Sink (left) and the GRC QT Constellation Sink (right).
+
+<p align="center">
+
+<img src="images/user-docs/constellation_both.png" width="700">
+</p>
+
 
 <!--@marcosinonan (this is an example, put a figure of how it looks in GNU Radio and how it looks in RELIA, and if there is any limitation)
 
