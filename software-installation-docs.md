@@ -161,7 +161,3 @@ gnuradio-companion
 Then startup GNU Radio (with the modules of Red Pitaya installed) type this laptop:
 ~/rpgr
 
-## Student management
-
-@porduna talk about WebLab-Deusto, LabDiscoveryEngine, and LabsLand.
-
