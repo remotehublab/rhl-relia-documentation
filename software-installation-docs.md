@@ -18,8 +18,6 @@ Make a git clone of all the repositories
 
 #### Installing other services
 
-@porduna
-
 Install supervisor
 Install Apache
 Install Redis Server
@@ -110,14 +108,6 @@ Linux (Ubuntu):
 2. `.env/bin/activate`
 3. `flask run --with-threads
 
-#### Configuring supervisor
-
-@porduna (here we use sample supervisor file)
-
-#### Configuring Apache2
-
-@porduna (here we use a smaple apache configuration file)
-
 ## Raspberry Pi installation
 
 ### Common components
@@ -144,7 +134,7 @@ When you want to run the receiver do:
 
 ### ADALM Pluto specifics
 
-TO BE DEFINED
+Nothing in particular
 
 ### Red Pitaya specifics
 
