@@ -8,6 +8,7 @@ RHL-RELIA: Remote Engineering Laboratories for Inclusive Access © 2024 by Remot
 
 The user documentation (for students and instructors using RELIA) is available here:
  * [User documentation](user-docs.md)
+ * [Learning Materials](learning-materials.md)
 
 ## Technical documentation
 
